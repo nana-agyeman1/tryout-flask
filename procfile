@@ -1,1 +1,1 @@
-web: python flaskb.py --logfile -
+web: python flaskb.wsgi --logfile -
